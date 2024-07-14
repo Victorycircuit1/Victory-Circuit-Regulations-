@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Victory Circuit Tournament Regulations</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        h1 { color: #333; }
+        p { margin: 10px 0; }
+    </style>
+</head>
+<body>
+    <h1>Victory Circuit Tournament Regulations</h1>
+    <h2>Eligibility</h2>
+    <p>Participants must be at least 18 years old or have permission from their parents. All players must have a valid account for the game being played.</p>
+    
+    <h2>Code of Conduct</h2>
+    <p>Players must adhere to fair play and sportsmanship. Any form of cheating, harassment, or abusive behavior will result in a warning followed by immediate disqualification if the behavior persists.</p>
+    
+    <h2>Registration Fees</h2>
+    <p>The entry fee is $25, payable upon registration. Fees are non-refundable unless the tournament is canceled by the organizers. For any other issues, please contact us at vctrcspprt@gmail.com.</p>
+    
+    <h2>Tournament Rules</h2>
+    <p>Matches must be played at the scheduled times. Results must be reported promptly. Disputes will be resolved by the tournament organizers.</p>
+    
+    <h2>Prizes</h2>
+    <p>The winner will receive a $500 prize. Prize distribution will occur within 1 to 3 business days for domestic participants and within 3 to 7 or more business days for overseas participants, depending on the location.</p>
+    
+    <h2>Liability</h2>
+    <p>The organizers are not responsible for any technical issues, including connectivity or server problems. Participants agree to participate at their own risk.</p>
+    
+    <h2>Privacy</h2>
+    <p>Personal information collected during registration will be used solely for tournament purposes. Data will not be shared with third parties without consent.</p>
+    
+    <h2>Modification and Cancellation</h2>
+    <p>The organizers reserve the right to modify or cancel the tournament before it starts. Participants will be notified of any significant changes. If the entire tournament is canceled, participants will receive a refund.</p>
+    
+    <h2>Acceptance</h2>
+    <p>By registering, participants agree to abide by all tournament rules and regulations.</p>
+</body>
+</html>
